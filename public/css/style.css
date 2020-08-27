@@ -1,0 +1,46 @@
+.banner{
+	background-color: black;
+	border: 2px solid black;
+	color: white;
+	padding: 30px;
+	margin-bottom: 50px;
+}
+
+table {
+  border: 2px inset black;
+}
+table, th, td {
+  border: 1px solid black;
+}
+table{
+	margin-bottom: 40px;
+}
+ th, td {
+	padding: 15px;
+  text-align: left;
+
+}
+
+.footer{
+
+}
+a{
+	font-size: 16px; 
+	color: black;
+	}
+	.footer .copy p{
+		text-align: center;
+
+	}
+	input[type='submit']{
+		font-size: 15px;
+		 background-color:
+		  cadetblue; color: black;
+	}
+
+	.footer{
+	border: 2px solid black;
+	background-color: black;
+	padding: 30px;
+
+	}
